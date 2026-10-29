@@ -2,7 +2,7 @@
 # Installer.
 
 name="cmake"
-version="4.4.3"
+version="4.4.5"
 soute_artifact="${name}-${version}"
 artifact="${soute_artifact}.zip"
 
